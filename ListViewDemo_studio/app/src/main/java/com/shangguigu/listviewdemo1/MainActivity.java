@@ -14,7 +14,7 @@ import java.util.ArrayList;
  */
 public class MainActivity extends ActionBarActivity {
 
-    //列表  hahahhahahxzlxzlxzlxzlxzlxlzxlzlxzl
+    //列表  hahahhaha1212121212121212121212
     private ListView list_item;
     private ArrayList<ItemData> list = new ArrayList<ItemData>();
 
