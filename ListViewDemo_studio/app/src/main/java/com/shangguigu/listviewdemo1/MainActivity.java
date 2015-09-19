@@ -10,7 +10,7 @@ import com.shangguigu.listviewdemo1.bean.ItemData;
 import java.util.ArrayList;
 
 /**
- * by xzl  lalallalallalallallala
+ * by xzl  
  */
 public class MainActivity extends ActionBarActivity {
 
