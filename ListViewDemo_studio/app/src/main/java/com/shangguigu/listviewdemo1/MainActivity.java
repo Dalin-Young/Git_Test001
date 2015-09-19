@@ -1,9 +1,7 @@
 package com.shangguigu.listviewdemo1;
 
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.support.v7.app.ActionBarActivity;
 import android.widget.ListView;
 
 import com.shangguigu.listviewdemo1.adapter.DemoAdapter;
@@ -11,7 +9,9 @@ import com.shangguigu.listviewdemo1.bean.ItemData;
 
 import java.util.ArrayList;
 
-
+/**
+ * by xzl
+ */
 public class MainActivity extends ActionBarActivity {
 
     private ListView list_item;
